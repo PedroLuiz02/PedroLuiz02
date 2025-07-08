@@ -7,7 +7,6 @@
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade de Ciências Humanas ESUDA. <br>
   - 🧑🏽‍💻 Desenvolvedor de Software em formação com experiência em Html, CSS, Python e PostgreSQL. <br>
   - 🌐 Busco uma oportunidade no mercado para aplicar o meu aprendizado e conseguir expandir meus conhecimentos. <br>
-  <br>
   - 💻 Gosto de tecnologia, games e aprender novas coisas. <br>
   - 🌎 Recife, Brasil
 </details>
