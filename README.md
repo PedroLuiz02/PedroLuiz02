@@ -31,7 +31,8 @@
 </table><br>
 
 <h3 align="left">Entre em contato:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedroluiz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedroluiz02" height="30" width="40" /></a>
-<a href="https://instagram.com/pedrolwz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrolwz_" height="30" width="40" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroluiz0034@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/mxndex7/](https://www.instagram.com/pedrolwz_/))
+<br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581985635305)
+ <a href="https://www.linkedin.com/in/guilhermemendes7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
