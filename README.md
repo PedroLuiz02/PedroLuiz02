@@ -14,12 +14,12 @@
 
 <h3>Linguagens</h3>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
-https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white
+<img align="center" alt="HTML" src=https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white/>
+<img align="center" alt="CSS" src=https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white/>
 <br>
 
 <h3>Ferramentas</h3>
- [<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+ <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <br>
   
