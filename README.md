@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Olá! Eu sou Pedro Luiz</h1>
 <h3 align="center">Um Desenvolvedor de Software</h3>
 
@@ -32,7 +33,6 @@
     </tr>
 </table><br>
   
-<div align="center">
   <h3 align="left">Entre em contato:</h3>
   <a href="https://www.instagram.com/pedrolwz_/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
