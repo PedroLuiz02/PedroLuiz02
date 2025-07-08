@@ -38,14 +38,9 @@
       </td>
     </tr>
 </table><br>
-  
-  <h3>Entre em contato:</h3>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrolwz_/" alt="Instagram"/></a>
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:pedroluiz0034@gmail.com)
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroluiz02/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5581985635305&text&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
-</div>
 
+<h1 align="center">📬 Entre em contato</h1>
+<br>
+</a><p align="center"><a>
+</a><a href="https://www.linkedin.com/in/pedroluiz02/r" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:pedroluiz0034@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/pedroluiz0034@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/PedroLuiz02" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
