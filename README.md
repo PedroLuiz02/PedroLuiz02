@@ -14,13 +14,14 @@
 
 <h3>Linguagens</h3>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="HTML" src=https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <img align="center" alt="CSS" src=https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white/>
 <br>
 
 <h3>Ferramentas</h3>
  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<br>
 <br>
   
 <table>
@@ -41,7 +42,7 @@
   <h3>Entre em contato:</h3>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrolwz_/" alt="Instagram"/></a>
-  <a href="mailto:pedroluiz0034@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:pedroluiz0034@gmail.com)
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroluiz02/" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
