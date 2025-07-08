@@ -12,13 +12,16 @@
   - 🌎 Recife, Brasil
 </details>
 
-<div align="center">
-  <h3>Linguagens e Ferramentas:</h3>
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  <br>
-</div>
+<h3>Linguagens</h3>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
+https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white
+<br>
+
+<h3>Ferramentas</h3>
+ [<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+ <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<br>
   
 <table>
     <tr>
@@ -36,9 +39,12 @@
 </table><br>
   
   <h3>Entre em contato:</h3>
-  <a href="https://www.instagram.com/pedrolwz_/" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  <a href="https://www.linkedin.com/in/pedroluiz02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrolwz_/" alt="Instagram"/></a>
   <a href="mailto:pedroluiz0034@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroluiz02/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5581985635305&text&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
 </div>
 
