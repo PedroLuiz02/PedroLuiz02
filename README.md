@@ -12,6 +12,7 @@
   - 🌎 Recife, Brasil
 </details>
 
+<h1 align="center">Skills</h1>
 <h3>Linguagens</h3>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -26,6 +27,8 @@
 
 <h3>Bibliotecas</h3>
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br><br>
+<br>
 
 <table>
     <tr>
