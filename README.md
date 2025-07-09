@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Olá! Eu sou Pedro Luiz</h1>
+### Olá! Eu sou Pedro Luiz
 <h3 align="center">Um Desenvolvedor de Software</h3>
 
 <details align="center">
