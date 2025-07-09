@@ -23,10 +23,10 @@
  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <br>
-<br>
 
 <h3>Bibliotecas</h3>
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br>
 <br>
 <br>
   
