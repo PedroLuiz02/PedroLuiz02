@@ -1,6 +1,6 @@
 <div align="center">
-### Olá! Eu sou Pedro Luiz
-<h3 align="center">Um Desenvolvedor de Software</h3>
+<h1> Olá! Eu sou Pedro Luiz</h1>
+<p>Um Desenvolvedor de Software</p>
 
 <details align="center">
   <summary><h3>💬 Sobre mim</h3></summary>
