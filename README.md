@@ -6,7 +6,7 @@
   <summary><h3>💬 Sobre mim</h3></summary>
   <br>
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade de Ciências Humanas ESUDA. <br>
-  - 🧑🏽‍💻 Desenvolvedor de Software em formação com experiência em Html, CSS, Python e PostgreSQL. <br>
+  - 🧑🏽‍💻 Desenvolvedor de Software em formação com conhecimento em HTML, CSS, Python, JavaScript e PostgreSQL. <br>
   - 🌐 Busco uma oportunidade no mercado para aplicar o meu aprendizado e conseguir expandir meus conhecimentos. <br>
   - 💻 Gosto de tecnologia, games e aprender novas coisas. <br>
   - 🌎 Recife, Brasil
@@ -22,6 +22,11 @@
 <h3>Ferramentas</h3>
  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<br>
+<br>
+
+<h3>Bibliotecas</h3>
+ <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <br>
 <br>
   
