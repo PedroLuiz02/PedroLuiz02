@@ -2,7 +2,7 @@
 <h1> Olá! Eu sou Pedro Luiz</h1>
 
 <details align="center">
-  <summary><span style="font-size:24px;">💬 Sobre mim</strong></summary>
+  <summary><h3>💬 Sobre mim<h3></summary>
   <br>
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade de Ciências Humanas ESUDA. <br>
   - 🧑🏽‍💻 Desenvolvedor de Software em formação com conhecimento em HTML, CSS, Python, JavaScript e PostgreSQL. <br>
