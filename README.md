@@ -26,11 +26,6 @@
  <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <br>
 
-<h3>Bibliotecas</h3>
- <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br><br>
-<br>
-
 <table>
     <tr>
       <td>
