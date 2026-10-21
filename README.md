@@ -14,7 +14,7 @@
 
 Sou desenvolvedor de software e tenho interesse em aplicações web, dados e tecnologias relacionadas à área de desenvolvimento.
 
-Atualmente venho desenvolvendo projetos acadêmicos e pessoais utilizando **Python, Flask, JavaScript, bancos de dados, APIs REST e Git**, além de estudar conceitos de **DevOps, CI/CD e Infraestrutura como Código**.
+Atualmente venho desenvolvendo projetos acadêmicos e pessoais utilizando Python, Flask, JavaScript, bancos de dados, APIs REST e Git, além de estudar conceitos de DevOps, CI/CD e Infraestrutura como Código.
 
 Busco constantemente aprimorar meus conhecimentos por meio de projetos práticos, explorando diferentes tecnologias e buscando compreender não apenas o desenvolvimento da aplicação, mas também aspectos relacionados a versionamento, automação, banco de dados e deploy.
 
